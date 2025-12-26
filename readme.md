@@ -68,3 +68,10 @@ Bridging the gap:
 ✔ Keep everything documented & repeatable  
 
 ---
+## 🔓 Open Source
+This repository is shared for learning, experimentation, and reference.  
+All code runs directly in the terminal and includes clear documentation.
+
+---
+
+### Built with ❤️ by Laukik
